@@ -1,22 +1,20 @@
-## Hello World! I'm Muhammad Dzakwan Najmi 👋
-
 ![Najmi](video/profile1.jpg)
 
-<!--
-**dzakwannajmi/dzakwannajmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi!!! I'm Muhammad Dzakwan Najmi 👋
 
-Here are some ideas to get you started:
+##### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,mysql,py,pr,au&perline=4)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 
-- I’m currently learning [**Python 🐍**](https://www.python.org/) Leanguege
+##### IDE (Integrated Development Environment)
+<img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
-![Hello!!!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtqMXpwemxvOHRhbXdhaWJldm1najA4YzBjeHR0dmNqNDA2aGc1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
+#### My Github Stats
+![dzakwannajmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwannajmi&show_icons=true&theme=jolly)
