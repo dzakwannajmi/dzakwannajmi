@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Muhammad Dzakwan Najmi 👋
+
+![Najmi](img/Head.jpg)
 
 <!--
 **dzakwannajmi/dzakwannajmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m currently learning [**Python 🐍**](https://www.python.org/) Leanguege
+
+![Hello!!!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtqMXpwemxvOHRhbXdhaWJldm1najA4YzBjeHR0dmNqNDA2aGc1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)
