@@ -1,6 +1,6 @@
 ## Hello World! I'm Muhammad Dzakwan Najmi 👋
 
-![Najmi](video/profile1.jpg)
+![Najmi](https://www.canva.com/design/DAGmoInkBkI/jkfJHW1-J6D4zclDLLc1yg/edit?utm_content=DAGmoInkBkI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <!--
 **dzakwannajmi/dzakwannajmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
