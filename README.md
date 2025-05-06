@@ -1,6 +1,6 @@
 ## Hello World! I'm Muhammad Dzakwan Najmi 👋
 
-![Najmi](img/Head.jpg)
+![Najmi](video/profile.mp4)
 
 <!--
 **dzakwannajmi/dzakwannajmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
