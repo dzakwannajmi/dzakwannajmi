@@ -5,10 +5,6 @@
   <img src="https://profile-counter.glitch.me/dzakwannajmi/count.svg?"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dzakwannajmi/count.svg?"  />
-</div>
-
 ###
 
 <h2 align="center">💻 Skills</h2>
@@ -66,7 +62,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h3 align="left">🌐 Connect With Me</h3>
 
 ###
 
