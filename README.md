@@ -5,9 +5,13 @@
   <img src="https://profile-counter.glitch.me/dzakwannajmi/count.svg?"  />
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/dzakwannajmi/count.svg?"  />
+</div>
+
 ###
 
-<h3 align="center">💻 Skills</h3>
+<h2 align="center">💻 Skills</h2>
 
 ###
 
@@ -31,7 +35,7 @@
 
 ###
 
-<h3 align="center">📊My Github Stats</h3>
+<h2 align="center">📊My Github Stats</h2>
 
 ###
 
@@ -62,12 +66,14 @@
 
 ###
 
-<h3 align="left">🌐 Connect With Me</h3>
+<h2 align="left">🌐 Connect With Me</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
+  <a href="https://instagram.com/dzkwn23" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dzkwn23&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
