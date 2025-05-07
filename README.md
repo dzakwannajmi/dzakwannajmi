@@ -46,40 +46,30 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+</div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<h3 align="center">🌐 Connect With Me</h3>
-
-###
-
-<div align="center">
-  <a href="https://instagram.com/dzkwn23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/2/3">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ern9k5w0y9wptspn10oviyglh)" alt="Spotify recently played"  />
-  </a>
+<div align="left">
 </div>
 
 ###
 
 <img align="left" height="255" src="http://i.pinimg.com/736x/11/12/1d/11121d8865ee038d7ca6704b75de7f5d.jpg"  />
+
+###
+
+<h3 align="left">🌐 Connect With Me</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+</div>
 
 ###
