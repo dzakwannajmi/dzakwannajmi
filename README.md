@@ -34,7 +34,17 @@
 </div>
 
 <h2 align="center">🎮 Play Mini-Game!!!</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph.svg">
+</picture>
+
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph.svg">
 <img src="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/snake.svg" alt="Snake animation" />
+
+<h2 align="center">🎶 Listen With Me</h2>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ern9k5w0y9wptspn10oviyglh&unique={true|1|on|yes})
 
 <h2 align="center">🌐 Connect With Me</h2>
 
