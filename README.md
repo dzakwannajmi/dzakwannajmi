@@ -417,6 +417,20 @@
       title='I pushed a commit with "dead" 4 times.'
       width="64"
   /></a>
+  <a href="my-badges/dead-commit.md"
+    ><img
+      src="https://github.com/my-badges/my-badges/blob/master/badges/yeti/yeti.png?raw=true"
+      alt='I pushed a commit with "dead" 4 times.'
+      title='I pushed a commit with "dead" 4 times.'
+      width="64"
+  /></a>
+  <a href="my-badges/dead-commit.md"
+    ><img
+      src="https://github.com/my-badges/my-badges/blob/master/badges/spooky-commit/spooky-commit.png?raw=true"
+      alt='I pushed a commit with "dead" 4 times.'
+      title='I pushed a commit with "dead" 4 times.'
+      width="64"
+  /></a>
 </div>
 
 
@@ -427,8 +441,7 @@
 
 <div align="center">
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,python,nodejs,vite,tailwindcss,ipfs,mongodb,mysql,llamaindex,linux,bash,wsl,terminal,git,github,notion,canva,figma&titles=true)
-
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,python,nodejs,vite,tailwindcss,ipfs,mongodb,docker,mysql,llamaindex,vscode,linux,bash,wsl,terminal,git,github,notion,canva,figma,au,pr&titles=true&)
 </div>
 
 
