@@ -9,64 +9,21 @@
   }
 </style> -->
 
-
 <h1 align="left">Hey There👋</h1>
 <p align="center">Hello, I am Muhammad Dzakwan Najmi. I'm a student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari. I'm just a regular person who eats rice.
 </p>
 
 <!-- Quotes -->
-<div align="center">
 <h2 align="center">📖 Quotes</h2>
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=poppins&author=Najmi&quote=if+you+gaze+for+long+into+an+abyss,+the+abyss+gazes+also+into+you" alt="Daily Quote">
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical&font=poppins&author=Najmi&quote=if+you+gaze+for+long+into+an+abyss,+the+abyss+gazes+also+into+you)
-
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" alt="Animation GIF">
 </div>
 
 <!-- Badges -->
 <div align="center">
   <h2 align="center">🎖️ Badges</h2>
-  <a href="my-badges/a-commit.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/a-commit.png"
-      alt='One of my commit sha starts with "a".'
-      title='One of my commit sha starts with "a".'
-      width="64"
-  /></a>
-  <a href="my-badges/ab-commit.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/ab-commit.png"
-      alt='One of my commit sha starts with "ab".'
-      title='One of my commit sha starts with "ab".'
-      width="64"
-  /></a>
-  <a href="my-badges/abc-commit.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/abc-commit.png"
-      alt='One of my commit sha starts with "abc".'
-      title='One of my commit sha starts with "abc".'
-      width="64"
-  /></a>
-  <a href="my-badges/abcd-commit.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/abcd-commit.png"
-      alt='One of my commit sha starts with "abcd".'
-      title='One of my commit sha starts with "abcd".'
-      width="64"
-  /></a>
-  <a href="my-badges/abcde-commit.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/abcde-commit.png"
-      alt='One of my commit sha starts with "abcde".'
-      title='One of my commit sha starts with "abcde".'
-      width="64"
-  /></a>
-  <a href="my-badges/abcdef-commit.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/abcdef-commit.png"
-      alt='One of my commit sha starts with "abcdef".'
-      title='One of my commit sha starts with "abcdef".'
-      width="64"
-  /></a>
   <a href="my-badges/stars-100.md"
     ><img
       src="https://my-badges.github.io/my-badges/stars-100.png"
@@ -172,6 +129,13 @@
       title="When I delete code, I delete a lot."
       width="64"
   /></a>
+    <a href="my-badges/mass-delete-commit-10k.md"
+    ><img
+      src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+      alt="When I delete code, I delete a lot."
+      title="When I delete code, I delete a lot."
+      width="64"
+  /></a>
   <a href="my-badges/my-badges-contributor.md"
     ><img
       src="https://my-badges.github.io/my-badges/my-badges-contributor.png"
@@ -200,6 +164,13 @@
       title="I did 4 sequential fixes."
       width="64"
   /></a>
+    <a href="my-badges/fix-5.md"
+    ><img
+      src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-5.png?raw=true"
+      alt="I did 5 sequential fixes."
+      title="I did 5 sequential fixes."
+      width="64"
+  /></a>
   <a href="my-badges/fix-6+.md"
     ><img
       src="https://my-badges.github.io/my-badges/fix-6+.png"
@@ -212,13 +183,6 @@
       src="https://my-badges.github.io/my-badges/chore-commit.png"
       alt="I did a little housekeeping! 🧹"
       title="I did a little housekeeping! 🧹"
-      width="64"
-  /></a>
-  <a href="my-badges/delorean.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/delorean.png"
-      alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!"
-      title="I committed on the day Doctor Emmett Brown invented the flux capacitor!"
       width="64"
   /></a>
   <a href="my-badges/covid-19.md"
@@ -275,13 +239,6 @@
       src="https://my-badges.github.io/my-badges/sleepy-coder.png"
       alt="I am a sleepy coder."
       title="I am a sleepy coder."
-      width="64"
-  /></a>
-  <a href="my-badges/public-keys-2.md"
-    ><img
-      src="https://my-badges.github.io/my-badges/public-keys-2.png"
-      alt="I have two public keys"
-      title="I have two public keys"
       width="64"
   /></a>
   <a href="my-badges/cafe-commit.md"
@@ -375,39 +332,11 @@
       title="I commit in the evening."
       width="64"
   /></a>
-  <a href="my-badges/my-badges-contributor.md"
-    ><img
-      src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
-      alt='I contributed to &lt;a href="https://github.com/my-badges/my-badges"&gt;My Badges&lt;/a&gt;!'
-      title='I contributed to &lt;a href="https://github.com/my-badges/my-badges"&gt;My Badges&lt;/a&gt;!'
-      width="64"
-  /></a>
-  <a href="my-badges/mass-delete-commit-10k.md"
-    ><img
-      src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
-      alt="When I delete code, I delete a lot."
-      title="When I delete code, I delete a lot."
-      width="64"
-  /></a>
-  <a href="my-badges/morning-commits.md"
-    ><img
-      src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
-      alt="I commit in the morning."
-      title="I commit in the morning."
-      width="64"
-  /></a>
   <a href="my-badges/old-issue-3.md"
     ><img
       src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/old-issue/old-issue-3.png?raw=true"
       alt="I closed an issue that was open for 3 years"
       title="I closed an issue that was open for 3 years"
-      width="64"
-  /></a>
-  <a href="my-badges/fix-5.md"
-    ><img
-      src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-5.png?raw=true"
-      alt="I did 5 sequential fixes."
-      title="I did 5 sequential fixes."
       width="64"
   /></a>
   <a href="my-badges/dead-commit.md"
@@ -431,31 +360,34 @@
       title='I pushed a commit with "dead" 4 times.'
       width="64"
   /></a>
+    <a href="my-badges/public-keys-2.md"
+    ><img
+      src="https://my-badges.github.io/my-badges/public-keys-2.png"
+      alt="I have two public keys"
+      title="I have two public keys"
+      width="64"
+  /></a>
 </div>
-
-
-
 
 <!-- Stacks -->
 <h2 align="center">⚙️ Tech Stacks</h2>
 
 <div align="center">
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,python,nodejs,vite,tailwindcss,ipfs,mongodb,docker,mysql,llamaindex,vscode,linux,bash,wsl,terminal,git,github,notion,canva,figma,au,pr&titles=true&)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,python,nodejs,vite,tailwindcss,ipfs,mongodb,docker,mysql,llamaindex,vscode,linux,bash,wsl,terminal,git,github,notion,canva,figma,au,pr&titles=true&)
+
 </div>
-
-
 
 <!-- Stats -->
 <h2 align="center">📊My Github Stats</h2>
 
-<div align="center" display="inline-block">
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
 
-  ![NajmiImut GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwannajmi&show_icons=true&theme=radical&border_radius=45)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakwannajmi&layout=pie&theme=radical&border_radius=45)](https://github.com/dzakwannajmi/github-readme-stats)
+![NajmiImut GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwannajmi&show_icons=true&theme=radical&border_radius=45)
 
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzakwannajmi&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakwannajmi&layout=pie&theme=radical&border_radius=45)](https://github.com/dzakwannajmi/github-readme-stats)
+
 </div>
 
 <!-- Mini Games -->
@@ -480,7 +412,7 @@
 
 <div align="center">
 
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ern9k5w0y9wptspn10oviyglh&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ern9k5w0y9wptspn10oviyglh&unique={true|1|on|yes})
 
 </div>
 
