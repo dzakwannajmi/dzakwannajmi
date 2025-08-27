@@ -13,7 +13,12 @@
 
 
 <h1 align="left">Hey There👋</h1>
-<p align="center">Hello, I am Muhammad Dzakwan Najmi. I'm a student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari. I'm just a regular person who eats rice.</p>
+<p align="center">Hello, I am Muhammad Dzakwan Najmi. I'm a student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari. I'm just a regular person who eats rice.
+</p>
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical&font=poppins&author=Najmi&quote=My+quote)
+
+
 
 <!-- Stacks -->
 <h2 align="center">⚙️ Tech Stacks</h2>
@@ -40,12 +45,19 @@
 
 <!-- Mini Games -->
 <h2 align="center">🎮 Play Mini-Game!!!</h2>
+
+<!-- abozanona -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph.svg">
 </picture>
 
-<img alt="Loading..." src="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph.svg">
 <img src="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/snake.svg" alt="Snake animation" />
 
 <!-- Music -->
