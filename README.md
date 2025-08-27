@@ -16,7 +16,13 @@
 <p align="center">Hello, I am Muhammad Dzakwan Najmi. I'm a student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari. I'm just a regular person who eats rice.
 </p>
 
+<!-- Quotes -->
+<div align="center">
+<h2 align="center">📖 Quotes</h2>
+
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical&font=poppins&author=Najmi&quote=if+you+gaze+for+long+into+an+abyss,+the+abyss+gazes+also+into+you)
+
+</div>
 
 
 
