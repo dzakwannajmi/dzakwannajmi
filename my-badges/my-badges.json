@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/ad70ca90825fd147bd9c75c90c927c27262f967f\"><strong>a</strong>d70ca90825fd147bd9c75c90c927c27262f967f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 60 times)\n2. new (used 41 times)\n3. readme.md (used 36 times)\n4. add (used 24 times)\n5. profile (used 14 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/121f27943414221db43fbe668448ec093fe8823d\">121f279</a>: fix admin dashboard call on AdminDashboard.jsx\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/543a0f1759ce8aba2eed355c7c9fafe3cd16e49e\">543a0f1</a>: fix up failed subscription exception\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/dfecc0c85f88ecdc3385340c87e617f1df5b592c\">dfecc0c</a>: fix error submit subcription",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/fdb03c5605b7b6ffec30aa3cc0fcc9211a67e0d0\">fdb03c5</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/e209762318719d8c6e6e3b2016b5769074d16311\">e209762</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/3f91d8776ee19968a6e69f87640a765aa226c5d8\">3f91d87</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/4d40bf62de6e2031c9f9ac287ff125b4628d8fbd\">4d40bf6</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/e7bc3d07d1f8574d9d0b9f48c3e04938b639d3b2\">e7bc3d0</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/88246848d323f904de49685fc76771632cb18804\">8824684</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/09ad67b59e51ed1f66aa441a76ff832eb9afe4de\">09ad67b</a>\n- <a href=\"https://github.com/dzakwannajmi/Nifty/commit/ea03bc84a74aa7fdd4345c42dceb02f2d754292c\">ea03bc8</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/AuraFi/commit/f1b7c0af369e9d1c2b7ff69a653164ab10db413d\">f1b7c0a</a>\n- <a href=\"https://github.com/dzakwannajmi/AuraFi/commit/eb92f1ed4d8ad2f33939987e4ddbb2b5001237aa\">eb92f1e</a>\n- <a href=\"https://github.com/dzakwannajmi/AuraFi/commit/39338d3b60b7100a8f43f60f22109a2a098aed72\">39338d3</a>\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/ccbd05054a93857bfdb8d2cef7f84d4ccc585ea3\">ccbd050</a>\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/e32bcb388815d3c3e75922b487612dfbf357e4c0\">e32bcb3</a>\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/84aa6131e86173d4ecc180ad3bb66791955391dd\">84aa613</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/f28303c5c2dc59d896ec98144390ebaa27b8c63e\">f28303c</a>\n- <a href=\"https://github.com/dzakwannajmi/SEA-Catering/commit/9422985cba46dca3a144eb0fc1db9144b2c0643b\">9422985</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
