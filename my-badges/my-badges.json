@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 67 times)\n2. readme.md (used 43 times)\n3. new (used 41 times)\n4. readme (used 29 times)\n5. add (used 27 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 70 times)\n2. readme.md (used 49 times)\n3. new (used 42 times)\n4. readme (used 29 times)\n5. add (used 27 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/OOP_PBO1/commit/9133f5c1707eca7a484ad4226ea4e1135b3fe37e\">9133f5c</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/70ccda2f1698fb7c1d6a891f07f91d64d3904da5\">70ccda2</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/fdb03c5605b7b6ffec30aa3cc0fcc9211a67e0d0\">fdb03c5</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/e209762318719d8c6e6e3b2016b5769074d16311\">e209762</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/3f91d8776ee19968a6e69f87640a765aa226c5d8\">3f91d87</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/4d40bf62de6e2031c9f9ac287ff125b4628d8fbd\">4d40bf6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c86dab29c18c440a3f680d6b23b9856b013f5c5\">2c86dab</a>\n- <a href=\"https://github.com/dzakwannajmi/OOP_PBO1/commit/9133f5c1707eca7a484ad4226ea4e1135b3fe37e\">9133f5c</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/70ccda2f1698fb7c1d6a891f07f91d64d3904da5\">70ccda2</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/fdb03c5605b7b6ffec30aa3cc0fcc9211a67e0d0\">fdb03c5</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/e209762318719d8c6e6e3b2016b5769074d16311\">e209762</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/3f91d8776ee19968a6e69f87640a765aa226c5d8\">3f91d87</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -47,5 +47,19 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Sea_Catering/commit/f28303c5c2dc59d896ec98144390ebaa27b8c63e\">f28303c</a>\n- <a href=\"https://github.com/dzakwannajmi/Sea_Catering/commit/9422985cba46dca3a144eb0fc1db9144b2c0643b\">9422985</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/65f7469f2129c532cc120609df549f21065e3bab\">65f7469</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2f7c72d0465d97fa5cdf8c9e5d87707b028b78c2\">2f7c72d</a>: chore:final project synchronization",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]
