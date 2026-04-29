@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 70 times)\n2. readme.md (used 49 times)\n3. new (used 42 times)\n4. add (used 37 times)\n5. zk (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 72 times)\n2. readme.md (used 49 times)\n3. new (used 42 times)\n4. add (used 39 times)\n5. zk (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c86dab29c18c440a3f680d6b23b9856b013f5c5\">2c86dab</a>\n- <a href=\"https://github.com/dzakwannajmi/OOP_PBO1/commit/9133f5c1707eca7a484ad4226ea4e1135b3fe37e\">9133f5c</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/70ccda2f1698fb7c1d6a891f07f91d64d3904da5\">70ccda2</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/fdb03c5605b7b6ffec30aa3cc0fcc9211a67e0d0\">fdb03c5</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/e209762318719d8c6e6e3b2016b5769074d16311\">e209762</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/3f91d8776ee19968a6e69f87640a765aa226c5d8\">3f91d87</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/d485b80be110c2e315e35b8b8d3f4c996abefd8b\">d485b80</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c86dab29c18c440a3f680d6b23b9856b013f5c5\">2c86dab</a>\n- <a href=\"https://github.com/dzakwannajmi/OOP_PBO1/commit/9133f5c1707eca7a484ad4226ea4e1135b3fe37e\">9133f5c</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/70ccda2f1698fb7c1d6a891f07f91d64d3904da5\">70ccda2</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/fdb03c5605b7b6ffec30aa3cc0fcc9211a67e0d0\">fdb03c5</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/e209762318719d8c6e6e3b2016b5769074d16311\">e209762</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -61,5 +61,12 @@
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2f7c72d0465d97fa5cdf8c9e5d87707b028b78c2\">2f7c72d</a>: chore:final project synchronization",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/e0c09c28e3accf65175d0f1fd4372c1597d27929\">e0c09c2</a>: fix: update next.config.ts correctly to fix snarkjs ENOENT\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/98cb6618d3295f71f5b9dcedeb992901dfd9345a\">98cb661</a>: fix: implement production config for snarkjs and vercel limits",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
