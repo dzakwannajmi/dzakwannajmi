@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Fluppy/commit/e0c09c28e3accf65175d0f1fd4372c1597d27929">e0c09c2</a>: fix: update next.config.ts correctly to fix snarkjs ENOENT
-- <a href="https://github.com/dzakwannajmi/Fluppy/commit/98cb6618d3295f71f5b9dcedeb992901dfd9345a">98cb661</a>: fix: implement production config for snarkjs and vercel limits
+- <a href="https://github.com/dzakwannajmi/Fluppy/commit/7a8f13c344cdeef18d02f6e9579bb73bcf10b945">7a8f13c</a>: fix: include circuit artifacts in Vercel deployment bundle
+- <a href="https://github.com/dzakwannajmi/Fluppy/commit/3d15b9d7dcbdade2007abbe81b130545c5d22e95">3d15b9d</a>: fix error CSP
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

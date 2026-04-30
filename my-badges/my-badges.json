@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 72 times)\n2. readme.md (used 49 times)\n3. new (used 42 times)\n4. add (used 39 times)\n5. zk (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 78 times)\n2. readme.md (used 52 times)\n3. new (used 42 times)\n4. add (used 40 times)\n5. zk (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/e0c09c28e3accf65175d0f1fd4372c1597d27929\">e0c09c2</a>: fix: update next.config.ts correctly to fix snarkjs ENOENT\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/98cb6618d3295f71f5b9dcedeb992901dfd9345a\">98cb661</a>: fix: implement production config for snarkjs and vercel limits",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/7a8f13c344cdeef18d02f6e9579bb73bcf10b945\">7a8f13c</a>: fix: include circuit artifacts in Vercel deployment bundle\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/3d15b9d7dcbdade2007abbe81b130545c5d22e95\">3d15b9d</a>: fix error CSP",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]
