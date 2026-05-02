@@ -50,17 +50,6 @@ I care about writing code that's clean, purposeful, and ships something real.
 
 ---
 
-## 🎯 Current Focus
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ◆  Deepening full-stack architecture with Next.js App Router│
-│  ◆  Exploring ZK proof systems (Circom, SnarkJS, Groth16)   │
-│  ◆  Building production-grade projects for real use cases   │
-│  ◆  Learning smart contract patterns on Soroban / EVM       │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 🤝 Let's Build Something
