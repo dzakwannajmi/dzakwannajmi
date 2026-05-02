@@ -63,51 +63,6 @@ I care about writing code that's clean, purposeful, and ships something real.
 
 ---
 
-## 🚀 Featured Projects
-
-### ⚡ [Fluppy](https://github.com/najmifija/fluppy) — ZK-Privacy Payment Gateway
-> Private, trustless payments on the Stellar Network powered by ZK-SNARKs.
-Atomic 95/5 revenue splits, USDC-native, and merchant-first design.
-Built with Soroban smart contracts + Circom proof infrastructure.
-
-`Soroban` `ZK-SNARKs` `Stellar` `TypeScript` `Circom`
-
----
-
-### 🌐 [Project Alpha](https://github.com/najmifija) — Full-Stack Web App *(WIP)*
-> A modern full-stack application built with Next.js 14 App Router,
-server components, and a clean REST API layer.
-Focus: real-world UX patterns + scalable architecture.
-
-`Next.js` `TypeScript` `Node.js` `TailwindCSS`
-
----
-
-### 🔐 [ZK Playground](https://github.com/najmifija) — ZK Learning Sandbox *(WIP)*
-> Personal lab for experimenting with zero-knowledge proof circuits.
-Working through Circom → SnarkJS → Groth16 pipelines from first principles.
-
-`Circom` `SnarkJS` `JavaScript`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=najmifija&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmifija&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=najmifija&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Build Something
 
 I'm open to **collaborations, open source contributions, and conversations** about
