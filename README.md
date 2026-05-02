@@ -1,94 +1,135 @@
-<!-- my-badges start -->
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
-<a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
-<a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
-<a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
-<a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
-<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
-<!-- my-badges end -->
+<div align="center">
 
-![Header](img/p2.png)
+# Muhammad Dzakwan Najmi
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+### Building things that matter — one commit at a time.
 
-<!-- <style>
-  h1 {
-  }
-</style> -->
+*Informatics Engineering student turning curiosity into code.*
+I don't wait to be ready — I ship, learn, and iterate.
 
-<h1 align="left">Hey There👋</h1>
-<p align="center">Hello, I am Muhammad Dzakwan Najmi. I'm a student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari. I'm just a regular person who eats rice.
-</p>
-
-<!-- Quotes -->
-<h2 align="center">📖 Quotes</h2>
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical&font=poppins&author=Najmi&quote=if+you+gaze+for+long+into+an+abyss,+the+abyss+gazes+also+into+you" alt="Daily Quote">
-
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" alt="Animation GIF">
-</div>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,python,nodejs,vite,tailwindcss,ipfs,mongodb,docker,mysql,llamaindex,vscode,linux,bash,wsl,terminal,git,github,notion,canva,figma,au,pr&titles=true&)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+Progress;ZK+%26+Smart+Contract+Explorer;Next.js+Enthusiast;Builder+Mindset+%E2%80%94+Always.)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Stats -->
-<h2 align="center">📊My Github Stats</h2>
+---
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
+## `whoami`
 
+I'm a Semester 3 Informatics Engineering student who builds before I'm "ready."
+My work lives at the intersection of **modern web development** and **emerging cryptographic tech** — from polished Next.js products to conceptual explorations of ZK proofs and smart contract architecture.
 
-![NajmiImut GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakwannajmi&show_icons=true&theme=radical&border_radius=45)
+I care about writing code that's clean, purposeful, and ships something real.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakwannajmi&layout=pie&theme=radical&border_radius=45)](https://github.com/dzakwannajmi/github-readme-stats)
+---
 
-</div>
+## 🛠 Tech Stack
 
-<!-- Mini Games -->
-<h2 align="center">🎮 Play Mini-Game!!!</h2>
+**Frontend**
 
-<!-- abozanona -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/pacman-contribution-graph.svg">
-</picture>
+**Backend & Runtime**
 
-<img src="https://raw.githubusercontent.com/dzakwannajmi/dzakwannajmi/output/snake.svg" alt="Snake animation" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!-- Music -->
-<h2 align="center">🎶 Listen With Me</h2>
+**Exploring**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🎯 Current Focus
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ◆  Deepening full-stack architecture with Next.js App Router│
+│  ◆  Exploring ZK proof systems (Circom, SnarkJS, Groth16)   │
+│  ◆  Building production-grade projects for real use cases   │
+│  ◆  Learning smart contract patterns on Soroban / EVM       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ [Fluppy](https://github.com/najmifija/fluppy) — ZK-Privacy Payment Gateway
+> Private, trustless payments on the Stellar Network powered by ZK-SNARKs.
+Atomic 95/5 revenue splits, USDC-native, and merchant-first design.
+Built with Soroban smart contracts + Circom proof infrastructure.
+
+`Soroban` `ZK-SNARKs` `Stellar` `TypeScript` `Circom`
+
+---
+
+### 🌐 [Project Alpha](https://github.com/najmifija) — Full-Stack Web App *(WIP)*
+> A modern full-stack application built with Next.js 14 App Router,
+server components, and a clean REST API layer.
+Focus: real-world UX patterns + scalable architecture.
+
+`Next.js` `TypeScript` `Node.js` `TailwindCSS`
+
+---
+
+### 🔐 [ZK Playground](https://github.com/najmifija) — ZK Learning Sandbox *(WIP)*
+> Personal lab for experimenting with zero-knowledge proof circuits.
+Working through Circom → SnarkJS → Groth16 pipelines from first principles.
+
+`Circom` `SnarkJS` `JavaScript`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ern9k5w0y9wptspn10oviyglh&unique={true|1|on|yes})
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=najmifija&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmifija&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
-<!-- Social Media -->
-<h2 align="center">🌐 Connect With Me</h2>
+<div align="center">
 
-<p align="center" display="inline-block">
-  <a href="https://www.instagram.com/dzkwn23">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45" style="margin-right: 15px;" />
-  </a>
-  <a href="https://github.com/dzakwannajmi">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" style="margin-right: 15px;"/>
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45" style="margin-right: 15px;"/>
-  </a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=najmifija&theme=tokyonight&hide_border=true)
 
-<!-- Other -->
+</div>
+
+---
+
+## 🤝 Let's Build Something
+
+I'm open to **collaborations, open source contributions, and conversations** about
+web development, cryptographic systems, or anything ambitious.
+
+If you're working on something interesting — or just want to exchange ideas —
+let's connect.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=najmifija&color=6366f1&style=flat-square&label=Profile+Views)
+
+</div>
