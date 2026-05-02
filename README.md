@@ -7,7 +7,7 @@
 *Informatics Engineering student turning curiosity into code.*
 I don't wait to be ready — I ship, learn, and iterate.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+Progress;ZK+%26+Smart+Contract+Explorer;Next.js+Enthusiast;Builder+Mindset+%E2%80%94+Always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+Progress;Smart+Contract+Explorer;Next.js+Enthusiast;Builder+Mindset+%E2%80%94+Always.)](https://git.io/typing-svg)
 
 </div>
 
