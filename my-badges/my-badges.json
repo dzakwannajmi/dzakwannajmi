@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 89 times)\n2. readme.md (used 52 times)\n3. add (used 45 times)\n4. new (used 45 times)\n5. zk (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 89 times)\n2. readme.md (used 52 times)\n3. add (used 46 times)\n4. new (used 45 times)\n5. readme (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,14 +45,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/91075ac6c620ecd3dd257285204035befa7e4dcb\">91075ac</a>\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/5a1c86791404fc6393bb8de9b1ff8caee8ecce95\">5a1c867</a>\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/cfcdeb2cc0c14886263d42cdae8237427eef398d\">cfcdeb2</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/d485b80be110c2e315e35b8b8d3f4c996abefd8b\">d485b80</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c86dab29c18c440a3f680d6b23b9856b013f5c5\">2c86dab</a>\n- <a href=\"https://github.com/dzakwannajmi/OOP_PBO1/commit/9133f5c1707eca7a484ad4226ea4e1135b3fe37e\">9133f5c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/b4327b4900a7be4238dfcfef6f3f97ba613230ea\">b4327b4</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/91075ac6c620ecd3dd257285204035befa7e4dcb\">91075ac</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/5a1c86791404fc6393bb8de9b1ff8caee8ecce95\">5a1c867</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/cfcdeb2cc0c14886263d42cdae8237427eef398d\">cfcdeb2</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/d485b80be110c2e315e35b8b8d3f4c996abefd8b\">d485b80</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c86dab29c18c440a3f680d6b23b9856b013f5c5\">2c86dab</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/71fff26b4c826483f0c0a5f2ca6cf321c181f106\">71fff26</a>\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/f6d8c46a1797766f408d217d6108efc557a2e7b6\">f6d8c46</a>\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/30473c72aaa1bfc3f7a1baaf2ada61d9fcce96a5\">30473c7</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/f9f7f5231cb1f923ee5a6e8413d0ce5b51e5222c\">f9f7f52</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/00b9947e9883c42a26dc761f04985edcd92e4d93\">00b9947</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/5026dff72a8f269cae8c9133fabda7197853f2ed\">5026dff</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/9e8e24a7ded586df965368ccb37da002d4dc40b3\">9e8e24a</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/71fff26b4c826483f0c0a5f2ca6cf321c181f106\">71fff26</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/f6d8c46a1797766f408d217d6108efc557a2e7b6\">f6d8c46</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/30473c72aaa1bfc3f7a1baaf2ada61d9fcce96a5\">30473c7</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/f9f7f5231cb1f923ee5a6e8413d0ce5b51e5222c\">f9f7f52</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/00b9947e9883c42a26dc761f04985edcd92e4d93\">00b9947</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -73,14 +73,14 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/8721cfbaeaeedc8ec0a8057a572af94574a386b9\">8721cfb</a>: fix: clean deps and remove tailwind cli\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/39b65bc1bc1adce82b387707994f500297398a33\">39b65bc</a>: fix: clean deps and remove tailwind cli\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/c4d8be5c673b476eb41b844702aca3190db14301\">c4d8be5</a>: fix: clean deps and remove tailwind cli\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/c9780b40d8a2df360df67c8b77f079e49a4e28df\">c9780b4</a>: fix: downgrade plugin-react to support vite 7",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/8721cfbaeaeedc8ec0a8057a572af94574a386b9\">8721cfb</a>: fix: clean deps and remove tailwind cli\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/39b65bc1bc1adce82b387707994f500297398a33\">39b65bc</a>: fix: clean deps and remove tailwind cli\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/c4d8be5c673b476eb41b844702aca3190db14301\">c4d8be5</a>: fix: clean deps and remove tailwind cli\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/c9780b40d8a2df360df67c8b77f079e49a4e28df\">c9780b4</a>: fix: downgrade plugin-react to support vite 7",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "fix-6",
     "tier": 5,
     "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/0a2e1d4c9670872557f3c7f6c2885aa012ace1f6\">0a2e1d4</a>: fix: add all Vercel URLs to CORS allowed origins\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/f8b08b0088da0d25b109cd7ab8f4da309c732d07\">f8b08b0</a>: fix: add all Vercel URLs to CORS allowed origins\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/37012f3dde6eaacd61cd4bea19f38f74875f04e5\">37012f3</a>: fix: remove CSS category, clean up imports\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/99d9070cfdbef21aedc76e730ac6073f576ab4fc\">99d9070</a>: fix: remove duplicate IoColorPaletteOutline import\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/e195be582146639e4e0dd08b511d3743b2144bd9\">e195be5</a>: fix: remove SiCss3, use IoColorPaletteOutline for CSS category\n- <a href=\"https://github.com/dzakwannajmi/wippy/commit/892e57813313d1f02d6229a94e23b5f8cba65473\">892e578</a>: fix: replace SiCss3 with IoColorPaletteOutline",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/0a2e1d4c9670872557f3c7f6c2885aa012ace1f6\">0a2e1d4</a>: fix: add all Vercel URLs to CORS allowed origins\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/f8b08b0088da0d25b109cd7ab8f4da309c732d07\">f8b08b0</a>: fix: add all Vercel URLs to CORS allowed origins\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/37012f3dde6eaacd61cd4bea19f38f74875f04e5\">37012f3</a>: fix: remove CSS category, clean up imports\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/99d9070cfdbef21aedc76e730ac6073f576ab4fc\">99d9070</a>: fix: remove duplicate IoColorPaletteOutline import\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/e195be582146639e4e0dd08b511d3743b2144bd9\">e195be5</a>: fix: remove SiCss3, use IoColorPaletteOutline for CSS category\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/892e57813313d1f02d6229a94e23b5f8cba65473\">892e578</a>: fix: replace SiCss3 with IoColorPaletteOutline",
     "image": "https://my-badges.github.io/my-badges/fix-6.png"
   }
 ]
