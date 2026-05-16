@@ -17,14 +17,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2f7c72d0465d97fa5cdf8c9e5d87707b028b78c2\">2f7c72d</a>: chore:final project synchronization",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/33c1d0f2e6ac3846da1c01a00830733b69e31e36\">33c1d0f</a>: chore(app): remove npm lockfile after pnpm workspace migration",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 89 times)\n2. readme.md (used 52 times)\n3. add (used 46 times)\n4. new (used 45 times)\n5. readme (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 90 times)\n2. readme.md (used 52 times)\n3. add (used 51 times)\n4. new (used 45 times)\n5. readme (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -82,5 +82,19 @@
     "desc": "I did 6 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/0a2e1d4c9670872557f3c7f6c2885aa012ace1f6\">0a2e1d4</a>: fix: add all Vercel URLs to CORS allowed origins\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/f8b08b0088da0d25b109cd7ab8f4da309c732d07\">f8b08b0</a>: fix: add all Vercel URLs to CORS allowed origins\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/37012f3dde6eaacd61cd4bea19f38f74875f04e5\">37012f3</a>: fix: remove CSS category, clean up imports\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/99d9070cfdbef21aedc76e730ac6073f576ab4fc\">99d9070</a>: fix: remove duplicate IoColorPaletteOutline import\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/e195be582146639e4e0dd08b511d3743b2144bd9\">e195be5</a>: fix: remove SiCss3, use IoColorPaletteOutline for CSS category\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/892e57813313d1f02d6229a94e23b5f8cba65473\">892e578</a>: fix: replace SiCss3 with IoColorPaletteOutline",
     "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/ab3a559ba6b5508f4da54977f64b91d4c243e199\"><strong>ab</strong>3a559ba6b5508f4da54977f64b91d4c243e199</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/33c1d0f2e6ac3846da1c01a00830733b69e31e36\">33c1d0f</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   }
 ]
