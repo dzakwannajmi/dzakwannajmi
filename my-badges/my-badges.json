@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 90 times)\n2. add (used 52 times)\n3. readme.md (used 52 times)\n4. new (used 45 times)\n5. zk (used 31 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 97 times)\n2. readme.md (used 59 times)\n3. add (used 54 times)\n4. new (used 45 times)\n5. payment (used 34 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/b4327b4900a7be4238dfcfef6f3f97ba613230ea\">b4327b4</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/91075ac6c620ecd3dd257285204035befa7e4dcb\">91075ac</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/5a1c86791404fc6393bb8de9b1ff8caee8ecce95\">5a1c867</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/cfcdeb2cc0c14886263d42cdae8237427eef398d\">cfcdeb2</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/d485b80be110c2e315e35b8b8d3f4c996abefd8b\">d485b80</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c86dab29c18c440a3f680d6b23b9856b013f5c5\">2c86dab</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/97bd264cc067bf4591768c7c448f5b9b00c9b91c\">97bd264</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/b4327b4900a7be4238dfcfef6f3f97ba613230ea\">b4327b4</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/91075ac6c620ecd3dd257285204035befa7e4dcb\">91075ac</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/5a1c86791404fc6393bb8de9b1ff8caee8ecce95\">5a1c867</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/cfcdeb2cc0c14886263d42cdae8237427eef398d\">cfcdeb2</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/d485b80be110c2e315e35b8b8d3f4c996abefd8b\">d485b80</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -96,5 +96,12 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/33c1d0f2e6ac3846da1c01a00830733b69e31e36\">33c1d0f</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/a153c0bdade535b24d18c08523f8735b3b437475\">a153c0b</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
