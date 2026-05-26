@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/dzakwannajmi/Fluppy/commit/e6d027bf1d653941857a65c2039f9a8f31941e4f">e6d027b</a>
+- <a href="https://github.com/dzakwannajmi/Fluppy/commit/7d9d86f57df58d82eeea77dbeb9caf4a3d9117da">7d9d86f</a>
 - <a href="https://github.com/dzakwannajmi/Wippy/commit/9e8e24a7ded586df965368ccb37da002d4dc40b3">9e8e24a</a>
 - <a href="https://github.com/dzakwannajmi/Wippy/commit/71fff26b4c826483f0c0a5f2ca6cf321c181f106">71fff26</a>
 - <a href="https://github.com/dzakwannajmi/Wippy/commit/f6d8c46a1797766f408d217d6108efc557a2e7b6">f6d8c46</a>
 - <a href="https://github.com/dzakwannajmi/Wippy/commit/30473c72aaa1bfc3f7a1baaf2ada61d9fcce96a5">30473c7</a>
-- <a href="https://github.com/dzakwannajmi/dzakwannajmi/commit/f9f7f5231cb1f923ee5a6e8413d0ce5b51e5222c">f9f7f52</a>
-- <a href="https://github.com/dzakwannajmi/dzakwannajmi/commit/00b9947e9883c42a26dc761f04985edcd92e4d93">00b9947</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

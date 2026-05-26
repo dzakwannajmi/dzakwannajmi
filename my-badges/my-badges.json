@@ -17,14 +17,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/33c1d0f2e6ac3846da1c01a00830733b69e31e36\">33c1d0f</a>: chore(app): remove npm lockfile after pnpm workspace migration",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c7b8002501f437943ef21ba6b500b615504bbbd\">2c7b800</a>: chore(app): verify public artifacts deployment",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 97 times)\n2. readme.md (used 59 times)\n3. add (used 54 times)\n4. new (used 45 times)\n5. payment (used 34 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 97 times)\n2. add (used 61 times)\n3. readme.md (used 59 times)\n4. new (used 45 times)\n5. payment (used 37 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,14 +45,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/97bd264cc067bf4591768c7c448f5b9b00c9b91c\">97bd264</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/b4327b4900a7be4238dfcfef6f3f97ba613230ea\">b4327b4</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/91075ac6c620ecd3dd257285204035befa7e4dcb\">91075ac</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/5a1c86791404fc6393bb8de9b1ff8caee8ecce95\">5a1c867</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/cfcdeb2cc0c14886263d42cdae8237427eef398d\">cfcdeb2</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/d485b80be110c2e315e35b8b8d3f4c996abefd8b\">d485b80</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/0631a070c522eeffcf9d56f72c846a0f53b36d5a\">0631a07</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/48e329be19c914e913c703f8b5a7404ed5be904f\">48e329b</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/e6107399bd071dc9615fc6f058227ef76c65d241\">e610739</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/97bd264cc067bf4591768c7c448f5b9b00c9b91c\">97bd264</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/b4327b4900a7be4238dfcfef6f3f97ba613230ea\">b4327b4</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/91075ac6c620ecd3dd257285204035befa7e4dcb\">91075ac</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/9e8e24a7ded586df965368ccb37da002d4dc40b3\">9e8e24a</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/71fff26b4c826483f0c0a5f2ca6cf321c181f106\">71fff26</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/f6d8c46a1797766f408d217d6108efc557a2e7b6\">f6d8c46</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/30473c72aaa1bfc3f7a1baaf2ada61d9fcce96a5\">30473c7</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/f9f7f5231cb1f923ee5a6e8413d0ce5b51e5222c\">f9f7f52</a>\n- <a href=\"https://github.com/dzakwannajmi/dzakwannajmi/commit/00b9947e9883c42a26dc761f04985edcd92e4d93\">00b9947</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/e6d027bf1d653941857a65c2039f9a8f31941e4f\">e6d027b</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/7d9d86f57df58d82eeea77dbeb9caf4a3d9117da\">7d9d86f</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/9e8e24a7ded586df965368ccb37da002d4dc40b3\">9e8e24a</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/71fff26b4c826483f0c0a5f2ca6cf321c181f106\">71fff26</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/f6d8c46a1797766f408d217d6108efc557a2e7b6\">f6d8c46</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/30473c72aaa1bfc3f7a1baaf2ada61d9fcce96a5\">30473c7</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

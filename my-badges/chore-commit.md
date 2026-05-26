@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Fluppy/commit/33c1d0f2e6ac3846da1c01a00830733b69e31e36">33c1d0f</a>: chore(app): remove npm lockfile after pnpm workspace migration
+- <a href="https://github.com/dzakwannajmi/Fluppy/commit/2c7b8002501f437943ef21ba6b500b615504bbbd">2c7b800</a>: chore(app): verify public artifacts deployment
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
