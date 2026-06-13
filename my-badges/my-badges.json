@@ -17,14 +17,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/2c7b8002501f437943ef21ba6b500b615504bbbd\">2c7b800</a>: chore(app): verify public artifacts deployment",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Growthip/commit/30e903f17a0e9da4f8c495862d977ca49824a637\">30e903f</a>: chore: fix frontend lint for Vercel deployment",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 110 times)\n2. add (used 62 times)\n3. readme.md (used 61 times)\n4. new (used 46 times)\n5. payment (used 38 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 113 times)\n2. add (used 68 times)\n3. readme.md (used 62 times)\n4. new (used 47 times)\n5. payment (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

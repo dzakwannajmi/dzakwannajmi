@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Fluppy/commit/2c7b8002501f437943ef21ba6b500b615504bbbd">2c7b800</a>: chore(app): verify public artifacts deployment
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/30e903f17a0e9da4f8c495862d977ca49824a637">30e903f</a>: chore: fix frontend lint for Vercel deployment
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
