@@ -24,14 +24,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 125 times)\n2. add (used 89 times)\n3. readme.md (used 63 times)\n4. new (used 47 times)\n5. payment (used 45 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 133 times)\n2. add (used 107 times)\n3. readme.md (used 63 times)\n4. new (used 49 times)\n5. payment (used 45 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/7a8f13c344cdeef18d02f6e9579bb73bcf10b945\">7a8f13c</a>: fix: include circuit artifacts in Vercel deployment bundle\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/3d15b9d7dcbdade2007abbe81b130545c5d22e95\">3d15b9d</a>: fix error CSP",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Growthip/commit/722983da137fa0b3a6dae80a9b7fbfd524f38313\">722983d</a>: fix(audit): apply H1/H3/L1/M1/M3 findings + redeploy pool V3\n\nH1: deposit() is now private (deposit_internal) — prevents free commitment spam\nH3: add upgrade() function — pool can now be upgraded without state loss\nL1: get_recipient_hash returns Option — no panic on missing recipient\nM1: add test_claim_to_with_v3_verifier_and_proof — closes V2/V3 test gap\nM3: add privacy-safe events for deposit and claim\n\nNew pool deployment: CCSYSAWOUWWBAHDLXXBZ4NL7VIXGCHAMYWNZHNUVUQQUMY4TSGC6IV56\nVerifier V3: CD3O37X2FIGAHZSM4KVR7XW72HYZOQ75MJF7IZX4LEA6PCKOHMW3N6D2\n23 tests passing (16 pool + 3 verifier-v3 + others)\n- <a href=\"https://github.com/dzakwannajmi/Growthip/commit/894d2ff22132664d8a8855ed5ab87c4908d7b4ca\">894d2ff</a>: fix(frontend): convert commitment from decimal to hex (32 bytes)\n\n- GROWTHIP_COMMITMENT_HEX was stored as decimal string causing 38-byte error\n- converted to proper 32-byte hex: 04a6f832...03fd8\n- deposit_paid and claim_to now receive correct byte length",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/e6d027bf1d653941857a65c2039f9a8f31941e4f\">e6d027b</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/7d9d86f57df58d82eeea77dbeb9caf4a3d9117da\">7d9d86f</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/9e8e24a7ded586df965368ccb37da002d4dc40b3\">9e8e24a</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/71fff26b4c826483f0c0a5f2ca6cf321c181f106\">71fff26</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/f6d8c46a1797766f408d217d6108efc557a2e7b6\">f6d8c46</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/30473c72aaa1bfc3f7a1baaf2ada61d9fcce96a5\">30473c7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/a0a4e9d326f2366abcbbf0ef025598c16ae13387\">a0a4e9d</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/e6d027bf1d653941857a65c2039f9a8f31941e4f\">e6d027b</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/7d9d86f57df58d82eeea77dbeb9caf4a3d9117da\">7d9d86f</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/9e8e24a7ded586df965368ccb37da002d4dc40b3\">9e8e24a</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/71fff26b4c826483f0c0a5f2ca6cf321c181f106\">71fff26</a>\n- <a href=\"https://github.com/dzakwannajmi/Wippy/commit/f6d8c46a1797766f408d217d6108efc557a2e7b6\">f6d8c46</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -101,7 +101,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/1ad7f09bb8ac1b13e07ebfdf813f4c200cdad97e\">1ad7f09</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/fbb49ce7b6840241cfdd8f5475d96a85494870f5\">fbb49ce</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/a153c0bdade535b24d18c08523f8735b3b437475\">a153c0b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dzakwannajmi/Growthip/commit/a99dbdb695c39d5090ba5d2e279633856bd453ba\">a99dbdb</a>\n- <a href=\"https://github.com/dzakwannajmi/Growthip/commit/722983da137fa0b3a6dae80a9b7fbfd524f38313\">722983d</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/a0a4e9d326f2366abcbbf0ef025598c16ae13387\">a0a4e9d</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/1ad7f09bb8ac1b13e07ebfdf813f4c200cdad97e\">1ad7f09</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/fbb49ce7b6840241cfdd8f5475d96a85494870f5\">fbb49ce</a>\n- <a href=\"https://github.com/dzakwannajmi/Fluppy/commit/a153c0bdade535b24d18c08523f8735b3b437475\">a153c0b</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/dzakwannajmi/Growthip/commit/85f7c7f4ac1c0d63bdcafea75329e0829f61f5fe\">85f7c7f4ac1c0d63bd<strong>cafe</strong>a75329e0829f61f5fe</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   }
 ]
