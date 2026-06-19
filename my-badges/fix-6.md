@@ -4,46 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/72cd1fa89497c637baf6030980ac38bf8dd44be7">72cd1fa</a>: fix(dashboard): stabilize DashboardStats with multi-token support
-
-- lazy-load Stellar client to fix SSR error on Vercel
-- support multiple pools (XLM + USDC) with per-token breakdown
-- auto-refresh every 30 seconds
-- manual refresh button
-- aggregate totals across all pools
-- fix pool balance calculation (was hardcoded * 10)
-- show last updated timestamp
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/8b2571b1890ba8b6c7bf7e17d9174bbf0e52fd88">8b2571b</a>: fix(dashboard): stabilize DashboardStats with multi-token support
-
-- lazy-load Stellar client to fix SSR error on Vercel
-- support multiple pools (XLM + USDC) with per-token breakdown
-- auto-refresh every 30 seconds
-- manual refresh button
-- aggregate totals across all pools
-- fix pool balance calculation (was hardcoded * 10)
-- show last updated timestamp
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/94b1da6f7aac02e5662e03b3269b78a6050c6ebe">94b1da6</a>: fix(amount): fix presetToContractAmount to use baseUnit multiplier
-
-- presetToContractAmount now calculates multiplier relative to baseUnit
-- XLM: 1/5/10/20 XLM maps correctly to 10M/50M/100M/200M stroops
-- USDC: 0.1/0.5/1/2 USDC maps correctly to 1M/5M/10M/20M stroops
-- add frontend validation before deposit to catch invalid amounts early
-- fixes UnreachableCodeReached when wrong amount sent to pool
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/b049dcd43f922d9f658e7e57d081f1183a715ed7">b049dcd</a>: fix(claim): add force: true to signAndSend for claim_to and deposit_paid
-
-- claim/page.tsx: force sign claim_to transaction
-- FreighterPayDemo.tsx: force sign deposit_paid transaction
-- fixes 'This is a read call' warning from Stellar SDK
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/f19dc81638479a72f0355f49bbe697fd0fa538f7">f19dc81</a>: fix(deposit): reset AmountSelector state on token change via key prop
-
-- add key={token.symbol} to AmountSelector to force re-mount on token switch
-- prevents stale amount from previous token being sent to wrong pool
-- fixes UnreachableCodeReached error when 0.5 XLM sent to XLM pool
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/65092d8a427d462a276d1ea76adb94b1406591dc">65092d8</a>: fix(deposit): reset AmountSelector state on token change via key prop
-
-- add key={token.symbol} to AmountSelector to force re-mount on token switch
-- prevents stale amount from previous token being sent to wrong pool
-- fixes UnreachableCodeReached error when 0.5 XLM sent to XLM pool
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/ff5e7aebf9623f7d461db5e8cb9b3ff6a470a084">ff5e7ae</a>: fix(tooltip): speech bubble style - white with border, pointer bottom-left
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/7645b7feb2e3aef06110eaf4aeaf351541add4e3">7645b7f</a>: fix(tooltip): use React state for hover, not Tailwind group-hover
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/f5ce09f198761a4c03db7abadd32187c1ea27fb5">f5ce09f</a>: fix: merge duplicate style attributes on tooltip div
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/ad7e2f046fdefc77449a3562fc71cd7fb1351073">ad7e2f0</a>: fix: remove duplicate tooltip line
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/9a56173cd54b29f1895c4569bcb45af3d3556e7b">9a56173</a>: fix: tooltip syntax, real 24h change from CoinGecko, total USD from real balances
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/99e538835e0e21c74d187b5a73404b3bab32abd5">99e5388</a>: fix(dashboard): show real XLM/USDC balance + USD value per token
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

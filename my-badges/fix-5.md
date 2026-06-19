@@ -4,37 +4,25 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/e61c0dff55b2ac23394c62d246f6ea671c9c0861">e61c0df</a>: fix(pool): remove contract-level root check, root verified by ZK proof
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/e48bea8193468db5895373ceed89ef9b40d93e0c">e48bea8</a>: fix: proper scroll layout, white bg all dashboard pages, settings light theme, welcome text weight
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/cdf9d1a867c71764738ff85d528532980e215987">cdf9d1a</a>: fix(topbar): light theme dropdown + avatar, fix dashboard scroll
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/041f4f9fec5b700d612fb276927b217c2ddf61bb">041f4f9</a>: fix: force white background on dashboard, fix activity page icons
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/98fbe0549c6850269a70beb6eb957da6e7b54d4a">98fbe05</a>: fix(sidebar): match HTML prototype design exactly
 
-- remove if root != current_root check from claim() function
-- root is now verified by Groth16 proof itself (pairing check)
-- this fixes claim always failing because admin root never matches
-  computed Merkle root after deposits
-- update tests: test_invalid_proof uses wrong proof size instead of wrong root
-- update test_claim_rejects_wrong_root: tamper public inputs not stored root
-- deploy new XLM pool: CAIQGZ4...T4T3O (base 1 XLM)
-- deploy new USDC pool: CBXOZCWT...CNXYJ (base 0.1 USDC)
-- regenerate TypeScript binding
-- 16 tests passing
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/31418196bab450cfbaed90e39f1b8fd46d85cb50">3141819</a>: fix(claim): check claim_to return value before declaring success
+- white background, light gray borders
+- active nav item: bg-[#E5E5E5] text-[#0A0A0A] font-bold
+- hover: bg-[#F5F5F5]
+- collapsed: 88px with centered icons + speech bubble tooltips
+- premium card: dark bg with white text
+- topbar: white/light background
+- Plus Jakarta Sans font via CSS variable in body
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/e29db362878475e2e54dc31bf29c9e2bd8f2be81">e29db36</a>: fix(dashboard): light theme + Plus Jakarta Sans font
 
-- claim_to returns bool, not just tx success
-- if result === false, throw descriptive error instead of showing success
-- prevents false positive success state when contract rejects claim
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/f9668c55f097105a81ffd96f5ff14e4fdd903ffb">f9668c5</a>: fix(sidebar): toggle button always visible when collapsed
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/9f1b244693b2d301c9a59d644805da5ccade2cd2">9f1b244</a>: fix(dashboard): fix sidebar double render using route groups
-
-- move /, /deposit, /claim to (main) route group with navbar layout
-- dashboard route group has its own layout with sidebar only
-- remove NavbarWrapper client component (was causing double render)
-- root layout now clean without any wrapper
-- sidebar only renders once via dashboard/layout.tsx
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/15ce293259f1f74ba4773ca8e1b954508c6b442a">15ce293</a>: fix(dashboard): collapsible sidebar with smooth transition
-
-- sidebar uses inline style width for smooth collapse animation
-- collapse to 56px icon-only, expand to 224px with labels
-- sticky positioning (tidak fixed) untuk proper flex layout
-- hide top navbar on /dashboard/* via NavbarWrapper
+- load Plus Jakarta Sans via next/font/google (variable font)
+- body default background: #FAFAFA (light)
+- .main-gradient class for landing/main pages (dark gradient)
+- dashboard uses light-base/dark-base bg from HTML prototype
+- font-sans uses --font-plus-jakarta-sans variable
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
