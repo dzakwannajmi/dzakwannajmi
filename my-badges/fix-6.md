@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/ff5e7aebf9623f7d461db5e8cb9b3ff6a470a084">ff5e7ae</a>: fix(tooltip): speech bubble style - white with border, pointer bottom-left
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/7645b7feb2e3aef06110eaf4aeaf351541add4e3">7645b7f</a>: fix(tooltip): use React state for hover, not Tailwind group-hover
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/f5ce09f198761a4c03db7abadd32187c1ea27fb5">f5ce09f</a>: fix: merge duplicate style attributes on tooltip div
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/ad7e2f046fdefc77449a3562fc71cd7fb1351073">ad7e2f0</a>: fix: remove duplicate tooltip line
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/9a56173cd54b29f1895c4569bcb45af3d3556e7b">9a56173</a>: fix: tooltip syntax, real 24h change from CoinGecko, total USD from real balances
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/99e538835e0e21c74d187b5a73404b3bab32abd5">99e5388</a>: fix(dashboard): show real XLM/USDC balance + USD value per token
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/bb0caa312e74e99577eae27c07f150050eac8a0b">bb0caa3</a>: fix(landing): use hugeicons:absolute for Absolute Privacy feature icon
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/2f2a3968ba911e37194ba44fc189f6b4fc72e894">2f2a396</a>: fix(landing): scale up Soroban logo to visually match Stellar logo size
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/1445994dec461b5614399446b7e30796854ddf3f">1445994</a>: fix(landing): remove Albedo, fix Stellar/SDF/Soroban logo to 204x64, 4-col grid
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/506658e41e6d731fa9ad9d3f06c532ee08169fa9">506658e</a>: fix(landing): grid-cols-5 to keep all 5 logos in single row, Soroban same size as Stellar
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/3cf2898f664c82de4ef606689010548e21c99a42">3cf2898</a>: fix(landing): enlarge Stellar/SDF logos to h-24, wallet icons to w-20 h-20
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/099485c3a3a2ef57497c799d586e8b2eb030b309">099485c</a>: fix(landing): increase Stellar and SDF logo size, keep wallet icons fixed circle size
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
