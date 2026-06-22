@@ -4,20 +4,14 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/8901f2e4d5ca1696e0d586f4caf3ed1c0d160e71">8901f2e</a>: chore: migrate soroban-sdk 25.1.0 -> 26.0.1, fix deprecated APIs
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/a43c944b51c294b1a3e5902b9ac4f9cc2dd1d8f4">a43c944</a>: chore: docs cleanup and repo hygiene
 
-Required for poseidon_permutation host function (CAP-0075), which is
-gated behind the hazmat-crypto feature and was added as a publicly
-callable env.crypto_hazmat() entry point starting in SDK 26.x.
-
-Also fixes deprecation warnings surfaced by the upgrade across all
-workspace members:
-- crypto::bn254::Fr -> Bn254Fr (avoids ambiguity with Bls12381Fr)
-- Events::publish() -> #[contractevent] macro (DepositEvent, ClaimEvent
-  structs in growthip-pool)
-
-Whole-workspace build and test suite confirmed clean (0 warnings,
-0 errors) after migration.
+- Remove apps/web/CLAUDE.md, apps/web/AGENTS.md
+- Remove tracked secrets (testnet.env, deployments/testnet.*) from repo
+- Remove references/stellar-risc0-verifier
+- Update README.md, SECURITY.md, contracts/README.md, apps/web/README.md
+- Add apps/web/src/lib/profile.ts
+- Update dashboard pages, tip/[id], note.ts, sidebar/topbar/PendingNotes
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
