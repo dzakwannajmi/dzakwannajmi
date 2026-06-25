@@ -4,37 +4,20 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/1d930823289062fcbfede220ccf1cfc0d45114df">1d93082</a>: fix(security): on-chain root validation against forgery attack
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/d29f970ec3ecf5eb8b21a0c7e457fb16d3e57180">d29f970</a>: fix(crypto): wrap info with toBufferSource in deriveKey HKDF call
 
-Fixes a critical vulnerability where claim() never validated the proof's
-root against any on-chain state. A Groth16 proof only proves knowledge of
-a path to root X — it does NOT prove X is a root this pool produced. An
-attacker could build a fake tree offline and drain the pool without
-depositing.
+- info from TextEncoder also has ArrayBufferLike buffer type
+- wrapping with toBufferSource ensures plain ArrayBuffer for Vercel TS strict
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/b31c3db36cab3b2cd2c23635279e46c5b949d5e6">b31c3db</a>: fix(crypto): fix BufferSource type error for TypeScript 5.x strict mode
 
-Fix: deposit_internal() now recomputes the Merkle root on-chain via
-Soroban's native poseidon_permutation host function (Protocol 25,
-CAP-0075), and appends it to a bounded on-chain root history. claim()
-validates the proof's root against this history before any other check.
+- toBufferSource now creates explicit new ArrayBuffer via new ArrayBuffer(n)
+- avoids SharedArrayBuffer vs ArrayBuffer incompatibility on Vercel
+- resolves Vercel build failure on cryptoUtils.ts
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/964f1eb1e5953bff6665148bc31102324e1d94b4">964f1eb</a>: fix(crypto): fix ArrayBuffer type compatibility for Vercel TypeScript
 
-Verified, not assumed:
-- poseidon_verify_test.rs: Soroban's Poseidon output matches circomlibjs
-  byte-for-byte across t=2/3/4 arities, against real production ground
-  truth (apps/web/src/lib/poseidon.ts)
-- merkle_verify_test.rs: on-chain rebuild_merkle_root() matches the
-  frontend's merkle.ts root construction exactly
-- test_claim_to_with_v3_verifier_and_proof: deposits the actual
-  commitment used to generate a real proof artifact, exercising the full
-  deposit->root->claim path end to end
-
-Three pre-existing tests now fail because they relied on the absence of
-root validation to pass (each deposited a disconnected dummy commitment
-unrelated to its proof) — marked #[ignore] with inline explanation
-rather than deleted, to preserve the audit trail.
-
-See SECURITY.md for full writeup.
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/f4b11ae331c0f8417f42de1b67f93d2c241e4641">f4b11ae</a>: fix(landing): footer matches reference style - brand name + tagline, powered by line
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/f7e7179497e54f5227ed5a216b4f7b44caba3807">f7e7179</a>: fix(landing): remove bento mini-nav from CTA section, keep just heading + button
+- toBufferSource now checks instanceof ArrayBuffer before cast
+- fixes Type error: SharedArrayBuffer not assignable to ArrayBuffer
+- resolves Vercel build failure on cryptoUtils.ts:156
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
