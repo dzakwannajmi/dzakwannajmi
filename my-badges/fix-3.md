@@ -4,20 +4,22 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/d29f970ec3ecf5eb8b21a0c7e457fb16d3e57180">d29f970</a>: fix(crypto): wrap info with toBufferSource in deriveKey HKDF call
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/dbed86167a7f645adf672aa6683e3c3a1e1513e3">dbed861</a>: fix(landing): update wallet FAQ and CTA to mention Freighter + xBull
 
-- info from TextEncoder also has ArrayBufferLike buffer type
-- wrapping with toBufferSource ensures plain ArrayBuffer for Vercel TS strict
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/b31c3db36cab3b2cd2c23635279e46c5b949d5e6">b31c3db</a>: fix(crypto): fix BufferSource type error for TypeScript 5.x strict mode
+- FAQ: replace Freighter-only with Freighter + xBull support
+- CTA: replace 'Freighter wallet' with 'Stellar wallet' (generic)
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/0f8aa504d2f2b305c12c7b2fdec9813e708664d5">0f8aa50</a>: fix(encryption): check on-chain premium status to determine setup state
 
-- toBufferSource now creates explicit new ArrayBuffer via new ArrayBuffer(n)
-- avoids SharedArrayBuffer vs ArrayBuffer incompatibility on Vercel
-- resolves Vercel build failure on cryptoUtils.ts
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/964f1eb1e5953bff6665148bc31102324e1d94b4">964f1eb</a>: fix(crypto): fix ArrayBuffer type compatibility for Vercel TypeScript
+- fix hasIdentity() not namespaced per address causing wrong step
+- now checks both local identity AND on-chain is_premium together
+- localIdentity + isPremium = done
+- fix: Twitter X share button in dashboard personal link section
+- fix: mobile responsive grids + remove hamburger button
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/d2bdfe0c5b3fecef8d79a40a9bbbc647a3d82066">d2bdfe0</a>: fix(mobile): additional responsive fixes
 
-- toBufferSource now checks instanceof ArrayBuffer before cast
-- fixes Type error: SharedArrayBuffer not assignable to ArrayBuffer
-- resolves Vercel build failure on cryptoUtils.ts:156
+- sidebar: hide speech bubble tooltips on mobile (hidden md:flex)
+- analytics: pool statistics grid responsive (auto-fit minmax 200px)
+- dashboard: balance amount font clamp(28px, 8vw, 48px) prevents overflow
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
