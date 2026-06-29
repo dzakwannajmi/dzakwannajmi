@@ -4,14 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/a43c944b51c294b1a3e5902b9ac4f9cc2dd1d8f4">a43c944</a>: chore: docs cleanup and repo hygiene
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/f7c44a84470c096f5884e86db727222cb21ff52b">f7c44a8</a>: chore(topbar): cleanup unused network selector variables
 
-- Remove apps/web/CLAUDE.md, apps/web/AGENTS.md
-- Remove tracked secrets (testnet.env, deployments/testnet.*) from repo
-- Remove references/stellar-risc0-verifier
-- Update README.md, SECURITY.md, contracts/README.md, apps/web/README.md
-- Add apps/web/src/lib/profile.ts
-- Update dashboard pages, tip/[id], note.ts, sidebar/topbar/PendingNotes
+- remove networkOpen, activeNetwork, dropdownRef states
+- remove handleNetworkSelect function
+- remove dotColor constant
+- remove click-outside handler for dropdown
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,10 +4,28 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/96440a8f9c276a9dbfb04a9dcd93c8ee3660d18b">96440a8</a>: fix: txHash in Stellar Expert link, claim page light theme fee estimate, Growthip privacy features in what-happens section
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/8dca3a2340e79bb4c60ee31c473c8ddf10b44a42">8dca3a2</a>: fix(activity): restore missing <a tag in Stellar Expert link
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/cae9c668fbf0b2fe73dcb5245bee446270fc1755">cae9c66</a>: fix(activity): remove template literal from href
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/dd8ebba0398a784914b00f26fa8b6e0077c2c107">dd8ebba</a>: fix(dashboard): remove Your Tips section, update activity with real notes + Stellar Expert link, light theme TokenSelector/AmountSelector, fix network badge
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/4923e3a2f2835cf14910b61f1b7a0f3eedd25521">4923e3a</a>: fix(dashboard): set registered flag before async loop to prevent spam
+
+- flag set immediately before register_recipient loop starts
+- prevents re-entry from 2s polling interval during async operations
+- fixes duplicate Freighter popups on dashboard load
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/40ea3d430b37e1d48e831e0939c847da1e5e826d">40ea3d4</a>: fix(dashboard): auto-register recipient in all pools (XLM + USDC)
+
+- register_recipient now called for both POOL_ID and POOL_USDC_ID
+- fixes claim rejected for USDC pool when wallet is new
+- per-pool silent fail so one failure doesn't block the other
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/ef6b7a89f4b466e61693694ffeeee6ce429dd1be">ef6b7a8</a>: fix(dashboard): auto-register only once per wallet, not on every poll
+
+- add growthip:registered:{addr} flag to localStorage
+- prevents spam register_recipient calls every 2s from polling interval
+- register only triggers on first dashboard load per wallet
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/da96027ca79ac9ff467a47de360b9f032998f8fc">da96027</a>: fix(dashboard): auto-register recipient hash on pool connect
+
+- dashboard now checks if creator is registered in pool on mount
+- if not registered, auto-triggers register_recipient transaction
+- fixes 'Claim rejected by contract' for new wallets on pool V4
+- silent fail so non-critical path doesn't break the UI
+- also remove debug merkle log from merkle.ts
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

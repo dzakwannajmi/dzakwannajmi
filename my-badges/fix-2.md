@@ -4,15 +4,20 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/618487fe71019ca6e8f380f4a8ed83b120ea42e7">618487f</a>: fix(dashboard): save note to localStorage before marking claimed
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/33fbb720d65b6a1c10d51d4ed6cda64da9d4a7ad">33fbb72</a>: fix(ux): user-friendly messages + animated spinners
 
-- call saveNote() before markNoteAsClaimed() in handleClaim
-- fixes activity page not showing notes received via encrypted bundle
-- note now persists in creator namespace regardless of which browser sent it
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/26790afbf86886e39254fb1b3d93967915714028">26790af</a>: fix(activity): load notes on address change
+- 'Loading ZK circuit' → 'Preparing privacy proof'
+- 'Generating Groth16 proof' → 'Generating zero-knowledge proof (5-15s)'
+- 'Building Merkle path' → 'Verifying your tip note'
+- 'Submitting proof' → 'Sending claim to blockchain'
+- 'Claim rejected by contract' → friendly error with advice
+- 'Do not close this tab' → 'Please keep this tab open'
+- ph:spinner-bold (CSS animation) → svg-spinners:ring-resize (native animated SVG)
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/79eca57e4e8938b90b926876ec5e4b120e3aee6c">79eca57</a>: fix(topbar): remove incomplete handleNetworkSelect + broken useEffects
 
-- add address to useEffect dependency array
-- fixes activity page not showing notes after wallet connect
+- remove incomplete handleNetworkSelect function body
+- remove two broken handleClick useEffects left from network selector cleanup
+- topbar now builds cleanly
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
