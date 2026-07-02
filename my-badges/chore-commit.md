@@ -4,12 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dzakwannajmi/Growthip/commit/f7c44a84470c096f5884e86db727222cb21ff52b">f7c44a8</a>: chore(topbar): cleanup unused network selector variables
-
-- remove networkOpen, activeNetwork, dropdownRef states
-- remove handleNetworkSelect function
-- remove dotColor constant
-- remove click-outside handler for dropdown
+- <a href="https://github.com/dzakwannajmi/Growthip/commit/b9755b2feae0eb2e0cffc386540c657955cd1ca4">b9755b2</a>: chore: remove unused testing-only deposit page, fix dangling link and CTA text in PendingNotes
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
