@@ -4,26 +4,11 @@
   ⛓️ Web3 Developer
 </p>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### Personal Stuffs
 - 🎓 5th-semester student at **Universitas Islam Kalimantan**
 - 🏆 **Grant recipient**
 - 🌱 Deep-diving into **Rust, Solidity, and zero-knowledge proofs**
 - 📍 Based in **Kalimantan, Indonesia**
-
-</td>
-<td valign="top" width="50%">
-
-### 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzakwannajmi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimahfija@gmail.com)
-
-</td>
-</tr>
-</table>
 
 ## 💻 Tech Stack
 
@@ -96,10 +81,15 @@
 ## 📈 Metrics
 
 <p align="center">
-  <img src="./metrics-calendar.svg" alt="Contribution calendar" width="100%" />
-</p>
-
-<p align="center">
   <img src="./metrics-languages.svg" alt="Most used languages" width="49%" />
   <img src="./metrics-followup.svg" alt="Issues and pull requests follow-up" width="49%" />
 </p>
+
+<p align="center">
+  <img src="./metrics-calendar.svg" alt="Contribution calendar" width="100%" />
+</p>
+
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzakwannajmi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dzkwn23)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimahfija@gmail.com)
